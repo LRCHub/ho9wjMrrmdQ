@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "まちあわせ",
+  "base_artist": "M!LK",
+  "createdAt": "2026-02-24T00:11:47.894075Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "EP02_まちあわせ／またあとで",
+      "artist": "SukeraSono",
+      "has_synced": true,
+      "path": "select/01_EP02_まちあわせ_またあとで_SukeraSono.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "02.まちあわせ",
+      "artist": "逆説パラドクス",
+      "has_synced": true,
+      "path": "select/02_02.まちあわせ_逆説パラドクス.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まちあわせ",
+      "artist": "M!LK",
+      "has_synced": false,
+      "path": "select/pl_01_まちあわせ_M!LK.txt"
+    }
+  ]
+}
